@@ -1,0 +1,69 @@
+Name: Oyedeko David 
+MatricNo:24/15559
+Department:Cybersecurity
+
+PART 2: SEN ASSIGNMENT
+Project: Student Result Management System
+Project Description
+
+A Student Result Management System is a Python-based application that allows users to:
+
+Add students
+
+Add scores
+
+Calculate grades
+
+Display student results
+
+  SOFTWARE DEVELOPMENT LIFE CYCLE (SDLC)
+1️ Planning Phase
+
+Objective:
+Build a system to manage student results easily.
+
+Tools:
+
+Python
+
+GitHub
+
+Users:
+
+School staff / lecturers
+
+2️ Requirements Analysis
+Functional Requirements
+
+Add student name
+
+Add student score
+
+Calculate grade
+
+Display results
+
+Non-Functional Requirements
+
+Simple
+
+Easy to use
+
+Runs in terminal
+
+3️ System Design
+Program Structure
+student_result_system/
+│
+├── main.py
+
+Variables & Functions (NOMENCLATURE)
+Name	Purpose
+student_name	Stores student name
+score	Stores score
+calculate_grade()	Determines grade
+display_result()	Shows output
+
+
+
+4️ Implementation (Python Code)
